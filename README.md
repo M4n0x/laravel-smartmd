@@ -41,7 +41,7 @@ Reference:
 ## Installation
 First, install package.
 ```
-composer require noisywinds/laravel-smartmd
+composer require m4n0x/laravel-smartmd
 ```
 Then run these commands to publish assets and config：
 ```
